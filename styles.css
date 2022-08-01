@@ -1,0 +1,91 @@
+
+*{font-family: 'Ubuntu', sans-serif;}
+html,
+body {
+    height: 100%;
+    background:rgb(232, 232, 232)
+}
+
+
+
+.Icon {
+    width: 35px;
+    position:fixed;
+    left: 1400px;
+    top:20px;
+}
+
+
+.Icon2{
+
+    width: 48px;
+    position: fixed;
+    left: 1450px;
+    top:13px;
+}
+
+
+.Icon3 {
+
+    width: 35px;
+    position: fixed;  
+    left: 1510px;
+    top:19px;
+}
+
+.Name {
+    position: fixed;
+    right: 0px;
+    left: 530px;
+    top: 13px;
+    bottom: 0px;
+    margin: 0px;
+    font-size: 40px; 
+    font-weight: 600;
+}
+
+.logo {
+    height: 38px;
+    width: 38px;
+    position: fixed;
+    top: 12px;
+    bottom: 0px;
+    right: 0px;
+    left: 440px;
+    margin: 5PX;
+    border-radius: 50px;
+}
+
+.container {
+    position: relative;
+    width: 1200px;
+    height: 55px;
+    margin: 0px auto;
+    background-color: rgb(206, 202, 202);
+    border-radius: 50px;
+    position: fixed;
+    right: 0px;
+    left: 20px;
+    bottom:0px;
+    top: 10px;
+}
+
+.Sex{
+font-size: 50px;
+position: relative;
+    right: 0px;
+    left: 750px;
+    top: 250px;
+    font-weight: 800;
+}
+
+
+
+.MORE{
+    position: relative;
+    right: 0px;
+    left: 490px;
+    top: 250px;
+    font-size: 40px;
+    font-weight: 600;
+}
